@@ -1,0 +1,9 @@
+{
+  "name": "happybonobo_useragent_entropy",
+  "title": "Happy Bonobo: Useragent Entropy",
+  "id": "jid2-5Fs7iTLscUaZBg",
+  "description": "Hide in the forest, with some entropy appended to your default user agent.",
+  "author": "Chris Antaki",
+  "license": "MPL 2.0",
+  "version": "0.1"
+}
